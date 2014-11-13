@@ -1,0 +1,13 @@
+{
+  "name": "Space Bowling Game",
+  "description": "Space Bowling Game",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/b.png"
+  },
+  "developer": {
+    "name": "Md Mahadi Hasan Nahid",
+    "url": "https://www.facebook.com/nahid.mahadi.hasan"
+  },
+  "default_locate": "en"
+}
